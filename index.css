@@ -1,0 +1,63 @@
+h2{
+    color: red;
+    font-size: 30px;
+
+}
+.p{
+   color:red;
+}
+
+.First{
+    color: crimson;
+    font-style: italic;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+ol{
+  color: brown; 
+  font-size: 15px;
+  font-family: monospace; 
+}
+
+ul{
+    color: brown;
+    font-display: 1px;
+    font-family: monospace;
+    font-style: inherit;
+    font-size: 20px;
+}
+
+p{
+    color:brown;
+    font-display: 15px;
+    font-size: small;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+a{
+    color: crimson;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#p1{
+    text-decoration: underline;
+    text-decoration-color: brown;
+}
+
+.one{
+    background-color: yellow;
+}
+
+.two{
+    text-decoration: line-through;
+}
+.c {
+    font-size: 20px;
+    -text-decoration-line: line-through; 
+    text-decoration-line: line-through; 
+ }
